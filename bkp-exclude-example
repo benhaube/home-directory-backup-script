@@ -1,0 +1,37 @@
+# Common system/temp/cache directories
+.cache/*
+.local/share/Trash/*
+.thumbnails/*
+*/.DS_Store
+lost+found
+
+# Application-specific caches
+.mozilla/firefox/*/Cache/*
+.vscode/extensions/*
+.npm/*
+node_modules/
+.gradle/
+.mullvad-browser/
+.Heaven/
+.mcop/
+.net/
+.redhat/
+.putty/
+.Superposition/
+.var/
+.android/
+.gradle/
+.java/
+.local/share/containers/
+
+# Others
+.steam/
+Steam/
+Android/
+AppImages/
+Encrypted-Documents/
+Google-Drive/
+Podcasts/
+Sync/
+Servers/
+
